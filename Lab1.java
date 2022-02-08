@@ -4,4 +4,3 @@ public calss Lab1
 {
   System.out.println("hello wold");
 }
-}
